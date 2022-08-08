@@ -1,0 +1,35 @@
+.about {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.about-text {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 40px;
+    color: var(--color-primary);
+  }
+  span {
+    padding: 10px 0;
+  }
+  P {
+    padding: 10px 0;
+    color: var(--color-grey);
+  }
+}
+
+.image {
+  img {
+    background-color: #ddd;
+    border-radius: 50%;
+    box-shadow: 0 0 2em var(--color-primary);
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+  }
+}
