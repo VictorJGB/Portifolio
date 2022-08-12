@@ -1,6 +1,7 @@
 import Header from "../../components/Header/Header";
-import { About } from "./../../components/About/About";
-import { Section } from "./../../components/Section/Section";
+import Skills from "../../components/Skills/Skills";
+import About from "./../../components/About/About";
+import Section from "./../../components/Section/Section";
 
 export const MainPage = () => {
   return (
@@ -8,6 +9,7 @@ export const MainPage = () => {
       <Header />
       <About />
       <Section />
+      <Skills />
     </>
   );
 };

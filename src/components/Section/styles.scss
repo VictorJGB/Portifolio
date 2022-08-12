@@ -1,9 +1,17 @@
 .div-container {
-  margin-top: 100px;
-  justify-content: center;
+  margin-top: 150px;
+  align-items: center;
 }
 
-.div-section {
-  width: 100%;
-  border-top: 1px solid black;
+.container-hr {
+  border: 0;
+  margin: auto;
+  height: 2px;
+  width: 50%;
+  background-image: linear-gradient(
+    to right,
+    transparent,
+    #715aff,
+    transparent
+  );
 }
