@@ -5,4 +5,6 @@
   
 <div align="Center">
   <h1>Secções do projeto</h1>
+   <br/>
+   <h3>Home</h3>
 </div>
