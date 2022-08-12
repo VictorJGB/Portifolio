@@ -6,6 +6,7 @@
 <div align="Center">
   <h1>Secções do projeto</h1>
    <br/>
+   <br/>
    <h2>Home</h2>
    <br/>
    <p>Nesta primeira parte da página vocês conhecem um pouco sobre mim e a proffissão que eu atualmente almejo (além de visualizarem um foto de qualidade duvidosa mas isso a gente releva :joy:</p>
